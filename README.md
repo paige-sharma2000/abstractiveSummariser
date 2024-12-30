@@ -1,1 +1,1 @@
-Developing an abstractive text summariser that takes an input text and generates a new, summarised version of that text as a stand-alone artfact of a larger Dissertation project an  automated review management system (RMS)
+Developing a LSTM  abstractive text summariser that takes an input text and generates a new, summarised version of that text as a stand-alone artfact of a larger Dissertation project an  automated review management system (RMS)
